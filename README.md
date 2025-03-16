@@ -1,16 +1,9 @@
-# 📌 CHAT IN REAL TIME
+# 📌 PINTEREST CLONE
 
 
 ## 🏹 functionalities
-* create a new account
-* sign in with an existing account
-* send text and images to any users by the chat
-* read messages received any time
-* send and receive messages in real time
-* update your profile pic
-* change the theme of the system
-* logout
-* filter users to show only those who are online 
+* search for any topic images from the unsplash api
+* infinite scroll
 
 ## ✒️ design
 #### desktop - 1024px
@@ -30,7 +23,7 @@
 
 
 ## 🚀 demo
-[deploy in vercel]() 
+[deploy in vercel](https://simple-pinterest-clone-k7vk.vercel.app/) 
 
 
 ## 📙 guide
